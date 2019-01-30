@@ -1,5 +1,5 @@
 import Croppie from 'croppie';
-import 'croppie/croppie.css';
+//import 'croppie/croppie.css';
 
 const VueCroppie = {
   install(Vue, options) {
